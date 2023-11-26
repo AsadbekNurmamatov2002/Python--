@@ -26,4 +26,14 @@
           x = bytearray(5)                               | bytearray  | 
           x = memoryview(bytes(5))                       | memoryview | 
           x = None                                       | NoneType   |
+
+
 >
+                #Pythonda ma'lumotlar turlari bilan ishlash
+>                     __1-Numeric__
+>Int, Float, Complex
+ __mavzu: INT- Butun sonlar__
+>__1-type()__- ma'lumot turini aniqlaydi
+>__2-help()__ -funksiya qanday vazifa bajarishini bilish uchun help(function) funksiyasi orqali aniqlanadi
+>__Python__ dasturlash tilida __Arifmetik amallar__
+
