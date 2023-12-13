@@ -41,7 +41,7 @@
 >__2-help()__ -funksiya qanday vazifa bajarishini bilish uchun help(function) funksiyasi orqali aniqlanadi
 >__Python__ dasturlash tilida __Arifmetik amallar__
 
-## pythonda-CHIZIQLI ALGORITMLARGA DOIR DASTURLAR
+## pythonda-CHIZIQLI ALGORITMLARGA DOIR DASTURLAR- misollar
 * 1-Kivadrat tomoni a kiritilsin. Uning perimetri va yuzasi aniqlansin. P=4*a, S=a**2
 * 2-To'g'ri to'rtburchakning tomoni kiritilsin a va b. Uning perimetri va yuzasi aniqlansin.P=2*(a+b), S=a*b
 * 3- Aylana diametri d kiritilsin. Uning uzinligi aniqlansin. L=d*pi, pi=3.14
